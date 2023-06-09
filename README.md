@@ -14,7 +14,7 @@
 
 ### Interest
 <img src="https://img.shields.io/badge/DDD-607396?style=for-the-badge&logo=DDD&logoColor=white"> <img src="https://img.shields.io/badge/ShellScript-907396?style=for-the-badge&logo=ShellScript&logoColor=white">
-<img src="https://img.shields.io/badge/OOP-217396?style=for-the-badge&logo=OOP&logoColor=white"> <img src="https://img.shields.io/badge/MessageQueue-217396?style=for-the-badge&logo=MessageQueue&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-217396?style=for-the-badge&logo=OOP&logoColor=white"> <img src="https://img.shields.io/badge/MessageQueue-517196?style=for-the-badge&logo=MessageQueue&logoColor=white">
 
 <hr/>
 <hr/>
