@@ -8,7 +8,7 @@
 
 ### Architecture
 <img src="https://img.shields.io/badge/MSA-007396?style=for-the-badge&logo=msa&logoColor=white"> <img src="https://img.shields.io/badge/Hexagonal-701296?style=for-the-badge&logo=hexagonal&logoColor=white">
-<img src="https://img.shields.io/badge/LayeredArchitecture-607396?style=for-the-badge&logo=LayeredArchitecture&logoColor=white">
+<img src="https://img.shields.io/badge/Layered Architecture-607396?style=for-the-badge&logo=LayeredArchitecture&logoColor=white">
 
 <hr/>
 
