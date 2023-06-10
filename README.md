@@ -26,7 +26,7 @@
 
 # Stady ING - [*****]
 - TDD[*]  
-- GOF
+- GOF[*]
 - MSA Transaction Manager[]  
 - KAFKA[] 
 - k8s[]
