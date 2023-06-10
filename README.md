@@ -25,8 +25,9 @@
 <hr/>
 
 # Stady ING - [*****]
-- MSA Transaction Manager[]  
 - TDD[*]  
+- GOF
+- MSA Transaction Manager[]  
 - KAFKA[] 
 - k8s[]
 - Synchronized & Multithreaded Programming[]
