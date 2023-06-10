@@ -20,7 +20,7 @@
 <hr/>
 <hr/>
 
-# ING - [*****]
+# Stady ING - [*****]
 - MSA Transaction Manager[]  
 - TDD[*]  
 - KAFKA[] 
