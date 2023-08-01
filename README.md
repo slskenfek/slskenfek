@@ -31,4 +31,4 @@
 - KAFKA[] 
 - k8s[]
 - Synchronized & Multithreaded Programming[]
-- Shell Script[]
+- Shell Script[*]
