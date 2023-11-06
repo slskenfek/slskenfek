@@ -1,0 +1,3 @@
+2023 11 06 끄적끄적
+  1. JPA 에서 DELETE 적용 할떄  @Transactional reay only 활성화 시켜두면 작동 안함
+  
