@@ -30,5 +30,5 @@
 - MSA Transaction Manager[]  
 - KAFKA[] 
 - k8s[]
-- Synchronized & Multithreaded Programming[]
+- Synchronized & Multithreaded Programming[*]
 - Shell Script[*]
