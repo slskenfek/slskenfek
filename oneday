@@ -18,3 +18,24 @@
 ktlint 플러그인 추가하여 precommit 및 깃푸쉬할때 이용해보자~
 check 함수 require 함수도.. 자주 사용해볼까?
 
+2024 2 25 끄적끄적
+
+코프링 사용시 프로퍼티 is 생략되는 이슈가 있다..
+
+@JsonProperty를 사용해도 영..
+
+스프링은 기본 ObjectMapper를 사용하여 직렬화 하기 떄문에 이를 바꿔보자
+
+우선 gradle implementation "com.fasterxml.jackson.module:jackson-module-kotlin:2.14.+" 추가하여
+
+`@Bean
+fun kotlinModule() = KotlinModule.Builder()
+    .withReflectionCacheSize(512)
+    .configure(KotlinFeature.NullToEmptyCollection, false)
+    .configure(KotlinFeature.NullToEmptyMap, false)
+    .configure(KotlinFeature.NullIsSameAsDefault, false)
+    .configure(KotlinFeature.SingletonSupport, false)
+    .configure(KotlinFeature.StrictNullChecks, false)
+    .build()`
+
+이런식으로 빈을 등록하여 해볼까?
