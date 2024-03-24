@@ -39,3 +39,9 @@ fun kotlinModule() = KotlinModule.Builder()
     .build()`
 
 이런식으로 빈을 등록하여 해볼까?
+
+2024 3 24 끄적끄적
+QueryDSL 작업 진행할떄 Spring Data Jpa 인터페이스를 하나에서 관리하고싶을때가 있다
+그럼 QueryDSL 인터페이스를 만들고 그걸 구현하는 Impl 클래스를 만들어서 구현할떄  규칙이
+QueryDSL 인터페이스의 이름과 동일하게 한뒤 Impl를 붙혀야 Spring Data Jpa에서 찾는다..
+
