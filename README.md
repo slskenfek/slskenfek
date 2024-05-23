@@ -43,7 +43,7 @@ A-02 : 2024-07-08 ~ 2024-09-01 자료구조&알고리즘 스터디겸 적용할 
 
 # 계획 시행일 : MutableList
 
-<a href="https://github.com/slskenfek/slskenfek/tree/docs/docker">A-01</a> : [5/22]
+<a href="https://github.com/slskenfek/slskenfek/tree/docs/docker">A-01</a> : [5/22, 5/23]
 
 
 
