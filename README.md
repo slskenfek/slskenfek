@@ -32,18 +32,18 @@
 - k8s[]
 - Synchronized & Multithreaded Programming[*]
 - Shell Script[*]
-- Docker[**]
+- Docker[***]
 
   
 # 스터디 계획
 A-01 : 2024-05-23 ~ 2024-07-01 Docker 기술 블로그 정리 
 
-A-02 : 2024-07-08 ~ 2024-09-01 자료구조&알고리즘 스터디겸 적용할 코틀린 앱 게임 개발 
+A-02 : 2024-07-08 ~ 2024-09-01 쿠버네티스 with MSA 정리
 
 
 # 계획 시행일
 
-<a href="https://github.com/slskenfek/slskenfek/tree/docs/docker">A-01</a> : [5/22, 5/23, 6/9, 6/15]
+<a href="https://velog.io/@slskenfek/Docker">A-01 [Docker 정리]</a> : [5/22, 5/23, 6/9, 6/15, 6,16]
 
 
 
