@@ -40,12 +40,14 @@ A-01 : 2024-05-23 ~ 2024-07-01 Docker 기술 블로그 정리
 
 A-02 : 2024-07-08 ~ 2024-09-01 쿠버네티스 with MSA 정리
 
+A-03 : 2024-06-26 ~ 분산 시스템 설계
 
 # 계획 시행일
 
 <a href="https://velog.io/@slskenfek/Docker">A-01 [Docker 정리]</a> : [5/22, 5/23, 6/9, 6/15, 6,16]
 
 
+<a href="https://velog.io/@slskenfek/series/%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C">A-01 [분산 시스템 정리]</a> : [6/26]
 
 
 
