@@ -33,6 +33,7 @@
 - Synchronized & Multithreaded Programming[*]
 - Shell Script[*]
 - Docker[***]
+- 대규모 분산 시스템[*]
 
   
 # 스터디 계획
