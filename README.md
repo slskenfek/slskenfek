@@ -25,7 +25,7 @@
 
 - RESTful API 설계 및 코드 아키텍처 개선  
 - 데이터베이스 모델링 및 쿼리 최적화  
-- CI/CD 파이프라인 구축 (Jenkins + Docker)  
+- CI/CD 파이프라인 구축 (Jenkins + Docker + JUnit5)  
 - AWS 기반 인프라 환경 구축 및 운영  
 
 ---
