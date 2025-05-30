@@ -4,8 +4,6 @@
 
 기술의 재미는 **가치 창출**과 연결될 때 빛난다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-github-id&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/your-github-id)
-
 </div>
 
 ---
