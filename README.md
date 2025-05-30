@@ -1,30 +1,60 @@
+<div align="center">
 
-### 주 메인 언어 기술
-<hr/>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<hr/>
+# 👨‍💻 김용준 | Backend Developer
 
-### 주 수행 업무
-- API 설계 및 코드 아키텍처 개선
-- 데이터베이스 설계 및 최적화
-- CI/CD 파이프라인 구축 
-- 서버 및 인프라 관리를 위한 AWS 활용
-<hr/>
+기술의 재미는 **가치 창출**과 연결될 때 빛난다.
 
-### 개인공부 진행
-##### 2022 ~ 2025 
-- 방송통신대학교 컴퓨터과학과 
-##### 2026 ~
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-github-id&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/your-github-id)
 
-<hr/>
+</div>
 
-### 관심
-- 효율적인 코드 아키텍처 디자인
-- 대용량 트래픽 아키텍처 핸들링
-- 데이터베이스 알고리즘 최적화
-- 비동기 멀티 쓰레딩 & 메모리 관리
-- AI 에이전트 활용
-- 더 좋은 사용자 경험 관리
-<hr/>
+---
+
+## 🔧 주요 기술 스택
+
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 💼 주요 업무 수행
+
+- RESTful API 설계 및 코드 아키텍처 개선  
+- 데이터베이스 모델링 및 쿼리 최적화  
+- CI/CD 파이프라인 구축 (Jenkins + Docker)  
+- AWS 기반 인프라 환경 구축 및 운영  
+
+---
+
+## 📚 학습 이력
+
+### 🎓 방송통신대학교 컴퓨터과학과  
+- **2022 ~ 2025**  
+- 컴퓨터 시스템, 알고리즘, 네트워크 기초 학습 중
+
+### 🎯 계획 중
+- **2026 ~**  
+- AI 응용, 시스템 최적화, Rust/C++ 고성능 백엔드 학습
+
+---
+
+## 🔥 관심 분야
+
+- 효율적인 아키텍처 설계와 리팩토링  
+- 대용량 트래픽을 견디는 인프라 구조  
+- DB 성능 향상 및 알고리즘 튜닝  
+- 비동기 멀티 쓰레딩과 메모리 최적화  
+- AI 기반 에이전트 시스템 활용  
+- 사용성과 성능을 고려한 UX 설계  
+
+---
+
+> 꾸준함이 만드는 결과,  
+> 끊임없는 개선이 만드는 가치.
 
