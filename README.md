@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 김용준 | Backend Developer
+# 👨‍💻 YJ | Backend Developer
 
 기술의 재미는 **가치 창출**과 연결될 때 빛난다.
 
