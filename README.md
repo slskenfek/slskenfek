@@ -11,7 +11,7 @@
 
 ---
 
-## 🔧 주요 기술 스택
+## 🔧 주 기술 스택
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ### 🎯 계획 중
 - **2025.7 ~ 2025.9 **   
-- 분산 스케줄링
+- 분산 비동기 스케줄링
 
 ---
 
