@@ -3,6 +3,7 @@
 # 👨‍💻 YJ | Backend Developer
 
 기술의 재미는 **가치 창출**과 연결될 때 빛난다.  
+<br>
 ![Last Commit](https://img.shields.io/github/last-commit/slskenfek/gather)  
 
 
